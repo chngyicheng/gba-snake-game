@@ -1,7 +1,7 @@
 # Snake Game for GBA
 
 ## Introduction
-This is a snake game created for the Game Boy Advance. This group project was created to learn about assembly language and creating games for older hardware, during studies in the National University of Singapore.
+This is a snake game created for the Game Boy Advance. This group project was created in 2021 to learn about assembly language and creating games for older hardware, during studies in the National University of Singapore.
 
 ## Running the game
 Launch your favourite GBA Emulator. Load the file `SNAKEPROJECT.gba` and your game will begin.
